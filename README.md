@@ -15,6 +15,7 @@ This May contain everyday Leetcode problem from the date 29 of june 2026
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ankita-tiwari123/LeetCode-EveryDay-Solution/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Ankita-tiwari123/LeetCode-EveryDay-Solution/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
